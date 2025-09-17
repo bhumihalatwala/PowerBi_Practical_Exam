@@ -1,4 +1,4 @@
-# 📊 Academic Performance Dashboard
+![Screen Recording 2025-09-18 010508](https://github.com/user-attachments/assets/5f6cc7ab-cad7-41f7-b104-4192df32b128)# 📊 Academic Performance Dashboard
 
 A comprehensive Power BI solution for monitoring student academic performance, attendance, and behavioral patterns across educational institutions.
 
@@ -54,3 +54,15 @@ A comprehensive Power BI solution for monitoring student academic performance, a
 - **🎨 Custom Visuals**: Enhanced charts and graphs
 
 ## 📱 Working
+![Screen Recording 2025-09-18 010508](https://github.com/user-attachments/assets/22d40b93-c10f-43fb-977d-2a853a2ca398)
+
+---
+
+## 📷 Dashboard
+<img width="1430" height="802" alt="Screenshot 2025-09-18 010200" src="https://github.com/user-attachments/assets/9c59c722-cbcc-4fa8-99ad-2afe3d20fa4f" />
+
+
+---
+
+<img width="1435" height="803" alt="Screenshot 2025-09-17 231746" src="https://github.com/user-attachments/assets/8e7bc6d1-735b-4b18-8da5-cb183422c557" />
+
